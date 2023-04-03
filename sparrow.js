@@ -1,9 +1,13 @@
+/*
 
-alert ("sparrow js")
+to make js for responcive cards 
+
+*/
 
 
-to make css csrds easily and quickly 
+function DOMcard(){
+  
+}
 
-
-
+ 
 
